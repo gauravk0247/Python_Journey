@@ -1,0 +1,2 @@
+print('''The most provocative people in the world are the ones who won't settle for average and have triumphed through adversity. 
+We are most inspired by people who have experienced difficulty and never, ever give up.''')
